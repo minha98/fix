@@ -1,0 +1,9 @@
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

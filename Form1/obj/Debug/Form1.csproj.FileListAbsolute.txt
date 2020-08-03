@@ -1,0 +1,21 @@
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Form1\bin\Debug\Form1.exe.config
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Form1\bin\Debug\Form1.exe
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Form1\bin\Debug\Form1.pdb
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Form1\obj\Debug\Form1.Form2.resources
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Form1\obj\Debug\Form1.csproj.GenerateResource.Cache
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Form1\obj\Debug\Form1.exe
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Form1\obj\Debug\Form1.pdb
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Form1\obj\Debug\Form1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Cuoiki\Form1\bin\Debug\Form1.exe.config
+C:\Users\Admin\Downloads\Cuoiki\Form1\bin\Debug\Form1.exe
+C:\Users\Admin\Downloads\Cuoiki\Form1\bin\Debug\Form1.pdb
+C:\Users\Admin\Downloads\Cuoiki\Form1\obj\Debug\Form1.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Cuoiki\Form1\obj\Debug\Form1.Form1.resources
+C:\Users\Admin\Downloads\Cuoiki\Form1\obj\Debug\Form1.Form2.resources
+C:\Users\Admin\Downloads\Cuoiki\Form1\obj\Debug\Form1.Properties.Resources.resources
+C:\Users\Admin\Downloads\Cuoiki\Form1\obj\Debug\Form1.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Cuoiki\Form1\obj\Debug\Form1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Cuoiki\Form1\obj\Debug\Form1.exe
+C:\Users\Admin\Downloads\Cuoiki\Form1\obj\Debug\Form1.pdb

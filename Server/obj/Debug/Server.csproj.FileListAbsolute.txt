@@ -1,0 +1,25 @@
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Server\bin\Debug\Server.exe.config
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Server\bin\Debug\login.mdf
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Server\bin\Debug\login_log.ldf
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Server\bin\Debug\Server.exe
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Server\bin\Debug\Server.pdb
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Server\obj\Debug\Server.Server.resources
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Server\obj\Debug\Server.exe
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Server\obj\Debug\Server.pdb
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Server\obj\Debug\Server.QuanLyTK.resources
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Cuoiki\Server\bin\Debug\login.mdf
+C:\Users\Admin\Downloads\Cuoiki\Server\bin\Debug\login_log.ldf
+C:\Users\Admin\Downloads\Cuoiki\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\Downloads\Cuoiki\Server\bin\Debug\Server.exe
+C:\Users\Admin\Downloads\Cuoiki\Server\bin\Debug\Server.pdb
+C:\Users\Admin\Downloads\Cuoiki\Server\obj\Debug\Server.QuanLyTK.resources
+C:\Users\Admin\Downloads\Cuoiki\Server\obj\Debug\Server.Server.resources
+C:\Users\Admin\Downloads\Cuoiki\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Admin\Downloads\Cuoiki\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Cuoiki\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Cuoiki\Server\obj\Debug\Server.exe
+C:\Users\Admin\Downloads\Cuoiki\Server\obj\Debug\Server.pdb
+C:\Users\Admin\Downloads\Cuoiki\Server\obj\Debug\Server.csprojAssemblyReference.cache

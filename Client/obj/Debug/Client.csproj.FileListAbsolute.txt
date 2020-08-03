@@ -1,0 +1,21 @@
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Client\bin\Debug\Client.exe
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Client\bin\Debug\Client.exe.config
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Client\bin\Debug\Client.pdb
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Client\obj\Debug\Client.Chat_Client.resources
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Client\obj\Debug\Client.Login.resources
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Client\obj\Debug\Client.exe
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Client\obj\Debug\Client.pdb
+C:\Users\LOVE\Desktop\MINH A\Cuoiki\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Cuoiki\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\Downloads\Cuoiki\Client\bin\Debug\Client.exe
+C:\Users\Admin\Downloads\Cuoiki\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Downloads\Cuoiki\Client\obj\Debug\Client.Chat_Client.resources
+C:\Users\Admin\Downloads\Cuoiki\Client\obj\Debug\Client.Login.resources
+C:\Users\Admin\Downloads\Cuoiki\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Admin\Downloads\Cuoiki\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Cuoiki\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Cuoiki\Client\obj\Debug\Client.exe
+C:\Users\Admin\Downloads\Cuoiki\Client\obj\Debug\Client.pdb
+C:\Users\Admin\Downloads\Cuoiki\Client\obj\Debug\Client.csprojAssemblyReference.cache
